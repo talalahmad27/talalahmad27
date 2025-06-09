@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/your-username/talalahmad27/blob/main/banner.png" alt="Talal Ahmad Banner">
-</p>
-
 <!-- Animated Typing Effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+;+I'm+Talal+Ahmad!" />
@@ -51,15 +46,9 @@
 - **Languages & Frameworks**: Python, R, SQL, PyTorch, TensorFlow, Spark
 - **Cloud & Tools**: AWS, Snowflake, Hugging Face, LangChain, Git, PowerBI
 - **Domains**: Machine Learning, NLP, Data Engineering, Computer Vision, Graph Neural Networks
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Talal Ahmad's GitHub Stats">
+  <img src="https://skillicons.dev/icons?i=python,r,sql,pytorch,tensorflow,spark&theme=light&perline=3" />
 </p>
-
 ---
 
 ## 🏆 Achievements
