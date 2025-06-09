@@ -8,7 +8,7 @@
 </h1>
 
 ## 🧠 About Me
-🔬 AI engineer | Machine Learning | NLP | Large Language Models | Generative AI.
+🔬 AI engineer | Machine Learning | NLP | Computer Vision | Large Language Models | Generative AI.
 
 🎓 **Master's in Artificial Intelligence** from Macquarie University, Sydney.  
 
