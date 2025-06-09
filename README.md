@@ -47,7 +47,9 @@
 I'm open to collaborations, internships, and AI/ML roles.
 
 - 📧 Email: [talalahmad76@gmail.com](mailto:talalahmad76@gmail.com)
-- 💼 LinkedIn: [syed-talal-ahmad-821981150](https://linkedin.com/in/syed-talal-ahmad-821981150)
+- 💼 LinkedIn: [Syed Talal Ahmad ](www.linkedin.com/in/talal-ahmad27)
+
+
 
 ---
 
