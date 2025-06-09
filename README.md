@@ -47,7 +47,7 @@
 - **Cloud & Tools**: AWS, Snowflake, Hugging Face, LangChain, Git, PowerBI
 - **Domains**: Machine Learning, NLP, Data Engineering, Computer Vision, Graph Neural Networks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,pytorch,tensorflow,spark,jupyter&theme=light&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,pytorch,tensorflow,spark,jupyter&theme=light&perline=6" />
 </p>
 ---
 
