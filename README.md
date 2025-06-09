@@ -1,16 +1,16 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/banner.png" alt="Talal Ahmad Banner">
+  <img src="https://github.com/your-username/talalahmad27/blob/main/banner.png" alt="Talal Ahmad Banner">
 </p>
 
 <!-- Animated Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+;+I'm+Talal+Ahmad!;+AI+Engineer+%7C+NLP+Researcher+%7C+ML+Practitioner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+;+I'm+Talal+Ahmad!" />
 </h1>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/talalahmad27/count.svg" alt="Visitor Count">
 </p>
 
 ---
