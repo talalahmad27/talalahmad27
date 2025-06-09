@@ -2,12 +2,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+;+I'm+Talal+Ahmad!" />
 </h1>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/talalahmad27/count.svg" alt="Visitor Count">
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -15,6 +9,7 @@
 🎓 **Master's in Artificial Intelligence** from Macquarie University, Sydney.  
 💼 **AI Intern at Domain Group** | **Research Associate at Macquarie University**  
 🔬 Passionate about **Generative AI**, **NLP**, and **Machine Learning**  
+📈 Nearly 3 years of IT industry experience, blending AI R&D with real-world deployments
 🌐 Based in Sydney, Australia  
 📫 Reach me at: [talalahmad76@gmail.com](mailto:talalahmad76@gmail.com) | [LinkedIn](https://linkedin.com/in/syed-talal-ahmad-821981150)
 
@@ -49,6 +44,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,sql,pytorch,tensorflow,spark,jupyter&theme=light&perline=6" />
 </p>
+
 ---
 
 ## 🏆 Achievements
