@@ -6,7 +6,7 @@
 ## 🧠 About Me
 
 🎓 **Master's in Artificial Intelligence** from Macquarie University, Sydney.  
-🔬 AI engineer | Machine Learning | NLP | Large Language Models | Generative AI 
+🔬 AI engineer | Machine Learning | NLP | Large Language Models | Generative AI. 
 💼 **AI Intern at Domain Group** | **Research Associate at Macquarie University**    
 📈 Nearly 3 years of IT industry experience, blending AI R&D with real-world deployments
 🌐 Based in Sydney, Australia  
