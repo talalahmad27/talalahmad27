@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/talalahmad27/talalahmad27/blob/main/banner_2.jpg" alt="Talal Ahmad">
+  <img src="https://github.com/talalahmad27/talalahmad27/blob/main/banner_2.png" alt="Talal Ahmad">
 </p>
 
 <!-- Animated Typing Effect -->
