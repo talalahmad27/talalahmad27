@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/your-username/talalahmad27/main/banner.png" alt="Talal Ahmad Banner">
+</p>
+
 <!-- Animated Typing Effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+;+I'm+Talal+Ahmad!" />
