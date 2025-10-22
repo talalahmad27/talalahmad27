@@ -4,7 +4,7 @@
 </h1>
 
 ## 🧠 About Me
-🔬 AI engineer | Machine Learning | NLP | Computer Vision | Large Language Models | Generative AI.
+🔬 AI engineer | Machine Learning | NLP | Large Language Models | Generative AI.
 
 🎓 **Master's in Artificial Intelligence** from Macquarie University, Sydney.  
 
@@ -20,8 +20,8 @@
 
 ## 🛠️ Skills & Tools
 
-- **Languages & Frameworks**: Python, R, SQL, PyTorch, TensorFlow, Spark
-- **Cloud & Tools**: AWS, Snowflake, Hugging Face, LangChain, Git, PowerBI
+- **Languages & Frameworks**: Python, R, SQL, PyTorch, TensorFlow, Spark, MCP, LangChain, StreamLit, Scikit-learn, Langflow
+- **Cloud & Tools**: Microsoft Azure, AWS, Snowflake, Git, PowerBI
 - **Domains**: Machine Learning, NLP, Data Engineering, Computer Vision, Graph Neural Networks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,sql,pytorch,tensorflow,spark,jupyter&theme=light&perline=6" />
